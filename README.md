@@ -9,7 +9,7 @@ ____________________________________________________
 #### Concluí minha formação em Desenvolvimento Web em Maio de 2023, pela Trybe, que teve duração de 12 meses. Aprendi ativamente as hardskills desenvolvendo mais de 30 projetos, inclusive alguns deles foram em grupo, onde tive a oportunidade de trabalhar com metodologias ágeis e colocar em prática todos os aprendizados em soft-skills que tivemos. 
 <br>
 
-#### No momento estou em busca da minha primeira oportunidade na área. Em paralelo a isso estou me divertindo e desenvolvendo, junto com uma colega que conheci na Trybe, um site de comparação de preços que em breve será disponibilizado aqui.
+#### No momento estou em busca da minha primeira oportunidade na área. Em paralelo a isso estou me divertindo e desenvolvendoum site de comparação de preços que em breve será disponibilizado aqui.
 
 ____________________________________________________
 ### 👩‍💻 **Habilidades**
