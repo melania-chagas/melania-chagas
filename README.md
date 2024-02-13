@@ -6,7 +6,7 @@
 ____________________________________________________
 
 ###  **Sobre mim**
-![]('./image.png)
+![](image.png)
 
 👩‍💻 Desenvolvedora web formada pela Trybe; <br>
 💻 Desenvolvedora backend na Oper; <br>
