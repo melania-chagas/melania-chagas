@@ -1,6 +1,6 @@
 ## Olá! Seja bem vindo!  🙋‍♀️ 
 
-![](image)
+<img src="image" alt="Sua Imagem" style="float:right; width:200px;">
 
 ### **Contato:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melania-chagas/) 
