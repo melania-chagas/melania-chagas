@@ -6,7 +6,9 @@
 ____________________________________________________
 
 ###  **Sobre mim**
-![Texto Alternativo](image)
+
+<img src="image" alt="Menina de frente para uma janela com paisagem, com o seu notebook e plantas em cima da mesa" style="float:right;">
+
 
 
 👩‍💻 Desenvolvedora web formada pela Trybe; <br>
