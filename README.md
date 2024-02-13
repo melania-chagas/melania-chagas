@@ -7,8 +7,8 @@ ____________________________________________________
 
 ###  **Sobre mim**
 
-👩‍💻 Desenvolvedora web formada pela @Trybe; <br>
-💻 Desenvolvedora backend na @Oper; <br>
+👩‍💻 Desenvolvedora web formada pela Trybe; <br>
+💻 Desenvolvedora backend na Oper; <br>
 💍 Casada; <br>
 🐈 Amo gatos; <br>
 🌳 Observar a natureza é uma terapia pra mim; <br>
