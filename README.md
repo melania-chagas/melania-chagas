@@ -7,7 +7,7 @@ ____________________________________________________
 
 ###  **Sobre mim**
 <img align="right" width="250" alt="ilustração de uma menina de frente para uma janela com paisagem, usando um notebook e plantas em cima da mesa" src="image">
-
+<p align="left"> 
 👩‍💻 Desenvolvedora web formada pela Trybe; <br>
 💻 Desenvolvedora backend na Oper; <br>
 💍 Casada; <br>
@@ -18,6 +18,8 @@ ____________________________________________________
    - 🌌 Cosmos;
    - 💼 Better Call Saul;
    - 🧪Breaking Bad.
+</p>
+
 
 ### **Habilidades**
 #### **Linguagens de programação:**
