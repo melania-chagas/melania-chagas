@@ -19,7 +19,6 @@ ____________________________________________________
    - 💼 Better Call Saul;
    - 🧪Breaking Bad.
 
-____________________________________________________
 ### **Habilidades**
 #### **Linguagens de programação:**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
