@@ -4,10 +4,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melania-chagas/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](melaniapchagas@gmail.com) 
 ____________________________________________________
-<img align="right" width="300" alt="ilustração de uma menina de frente para uma janela com paisagem, usando um notebook e plantas em cima da mesa" src="image">
 
 ###  **Sobre mim**
-
+<img align="right" width="250" alt="ilustração de uma menina de frente para uma janela com paisagem, usando um notebook e plantas em cima da mesa" src="image">
 
 👩‍💻 Desenvolvedora web formada pela Trybe; <br>
 💻 Desenvolvedora backend na Oper; <br>
