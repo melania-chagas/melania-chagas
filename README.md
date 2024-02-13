@@ -8,7 +8,6 @@ ____________________________________________________
 
 ###  **Sobre mim**
 
-<p> 
 👩‍💻 Desenvolvedora web formada pela Trybe; <br>
 💻 Desenvolvedora backend na Oper; <br>
 💍 Casada; <br>
@@ -19,7 +18,7 @@ ____________________________________________________
    - 🌌 Cosmos;
    - 💼 Better Call Saul;
    - 🧪Breaking Bad.
-</p>
+
 
 
 ### **Habilidades**
