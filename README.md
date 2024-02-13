@@ -6,7 +6,8 @@
 ____________________________________________________
 
 ###  **Sobre mim**
-![](image.png)
+![Texto Alternativo](image)
+
 
 👩‍💻 Desenvolvedora web formada pela Trybe; <br>
 💻 Desenvolvedora backend na Oper; <br>
