@@ -7,7 +7,7 @@ ____________________________________________________
 
 ###  **Sobre mim**
 
-<img src="image" alt="Menina de frente para uma janela com paisagem, com o seu notebook e plantas em cima da mesa" style="float:right;">
+<img src="image" alt="Menina de frente para uma janela com paisagem, com o seu notebook e plantas em cima da mesa" style="float:right width="80" height="80"">
 
 
 
