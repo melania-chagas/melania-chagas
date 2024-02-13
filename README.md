@@ -1,6 +1,6 @@
 ## Olá! Seja bem vindo!  🙋‍♀️ 
 
-<img src="image" alt="Sua Imagem" style="float:right; width:200px;">
+<img align="right" width="300" alt="illustration" src="https://user-images.githubusercontent.com/102390423/201497899-3b8919c0-029f-4ac8-9f0e-c6679fc30102.png">
 
 ### **Contato:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melania-chagas/) 
